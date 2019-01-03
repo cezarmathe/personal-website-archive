@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-# title: Tech Hub
+title: Tech Hub
 
 # Short description of your site
 description: Cezar Mathe's personal website
@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /img/avatar-icon.png
+title-img: /img/avatar-icon.png
 
 # --- Background colour/image options --- #
 
