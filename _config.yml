@@ -41,15 +41,15 @@ title-img: /img/avatar-icon.png
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
-navbar-text-col: "#F5F5F5"
-navbar-children-col: "#FFFFFF"
-page-col: "#F0F0F0"
+navbar-col: "#0D0C0C"
+navbar-text-col: "#CFC9C9"
+navbar-children-col: "#403F3F"
+page-col: "#F3EFEB"
 link-col: "#008AFF"
-hover-col: "#ee0053"
-footer-col: "#4F4F4F"
-footer-text-col: "#F5F5F5"
-footer-link-col: "#A5A5A5"
+hover-col: "#BF0200"
+footer-col: "#262525"
+footer-text-col: "#CFC9C9"
+footer-link-col: "#CFC9C9"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
