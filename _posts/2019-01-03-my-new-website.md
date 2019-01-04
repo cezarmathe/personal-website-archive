@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting my website up and running
+title: Getting myself a website
 gh-repo: cezarmathe/cezarmathe.github.io
 gh-badge: [star, follow]
 tags: [website, github, github-pages, gh-pages]
