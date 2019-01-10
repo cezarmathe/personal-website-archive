@@ -41,8 +41,8 @@ Continue moving dotfiles and creating categories until you feel you're good to g
 You might want to add these aliases in your `.bashrc`:
 
 ```shell
-alias dotfiles="git --work-tree=/home/<your_user>/Maintenance/dotfiles/ --git-dir=/home/<your_user>/Maintenance/dotfiles/.git"
-alias stow="stow -t ${HOME}"
+alias dotfiles='git --work-tree=/home/<your_user>/Maintenance/dotfiles/ --git-dir=/home/<your_user>/Maintenance/dotfiles/.git'
+alias stow='stow -t ${HOME}'
 ```
 
 Replace `Maintenance/dotfiles` with the path that you chose for your setup, but keep the `\` at the end of the path for the work tree.
