@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, my name is Cezar, I'm 17 and I'm a student at the "Andrei Muresanu" National College in Dej, Cluj, Romania. I wrote my first line of code when I was 9 and I've been enjoying the experience since then. 
+Hi, my name is Cezar, I'm 17 and I'm a student at the "Andrei Muresanu" National College in Dej, Cluj, Romania. I wrote my first line of code when I was 9 and I've been enjoying the experience since then.
 
 Tinkering with my Linux system is one of my favourite things, along with writing Go code, Bash scripts and command line utilities.
 
