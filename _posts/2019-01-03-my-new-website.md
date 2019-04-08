@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Getting myself a website
-gh-repo: cezarmathe/cezarmathe.github.io
-gh-badge: [star, follow]
+gh-repo: https://github.com/cezarmathe/cezarmathe.github.io
 tags: [website, github, github-pages, gh-pages]
 comments: true
 ---

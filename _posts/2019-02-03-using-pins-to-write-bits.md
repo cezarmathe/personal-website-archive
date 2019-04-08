@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Using Arduino pins as a data bus for transfering bits
-gh-repo: cezarmathe/pinbitwriter
-gh-badge: [star, follow]
+gh-repo: https://github.com/cezarmathe/pinbitwriter
 tags: [arduino, iot, c++]
 comments: true
 ---

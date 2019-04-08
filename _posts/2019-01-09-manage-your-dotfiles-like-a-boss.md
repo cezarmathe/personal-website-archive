@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to manage your dotfiles like a boss
-gh-repo: cezarmathe/dotfiles
-gh-badge: [star, follow]
+gh-repo: https://github.com/cezarmathe/dotfiles
 tags: [dotfiles, linux, unix, configuration, tutorial, stow]
 comments: true
 ---
