@@ -1,0 +1,12 @@
+---
+layout: page
+title: My portfolio
+---
+
+{% for item in site.data.work %}
+    <h2>
+        <a href="{{ item.url }}">{{ item.name }}</a>
+    </h2>
+    <p>{{ item.description }}</p>
+    <br>
+{% endfor %}

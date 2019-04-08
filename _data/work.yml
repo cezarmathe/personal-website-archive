@@ -1,0 +1,40 @@
+# A list of projects that I work/have worked on.
+# This is for showcasing in the portfolio section
+---
+
+- name: pwrp
+  url: https://github.com/cezarmathe/pwrp
+  description: Personal Work Recorder-Processor
+
+- name: pinbitwriter
+  url: https://github.com/cezarmathe/pinbitwriter
+  description: An IoT library for writing bits to digital pins like they are a data transfer bus.
+
+- name: discord-message-embedder
+  url: https://github.com/cezarmathe/discord-message-embedder
+  description: A discord bot that sends embedded messages for you by parsing a JSON string.
+
+- name: trackexpenses-android
+  url: https://github.com/cezarmathe/trackexpenses-android
+  description: An application that helps you track your money.
+
+- name: gosh
+  url: https://github.com/cezarmathe/gosh
+  description: A primitive shell written in Go.
+
+- name: repotools
+  url: https://github.com/cezarmathe/repotools
+  description: A tool for easily managing Arch Linux meta packages and package repositories.
+
+- name: linkedlist_cpp
+  url: https://github.com/cezarmathe/linkedlist_cpp
+  description: A linked list implementation written from scratch in C++.
+
+- name: xfce4-nightmode
+  url: https://github.com/cezarmathe/xfce4-nightmode
+  description: This is a small script that enables "night mode" for xfce4 by changing the theme from Arc to Arc Dark and vice versa.
+
+- name: smartplug-backend
+  url: https://github.com/cezarmathe/smartplug-backend
+  description: Server-side code for the SmartPlug product developed by PGang 2.0 during "Descopera-ti pasiunea in IT" project, 2018.
+  
