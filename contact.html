@@ -1,0 +1,54 @@
+---
+layout: page
+title: Contact me
+---
+
+<div class="contact">
+    <div class="personal">
+        <h2>You can contact me directly here:</h1><br/>
+        {% for item in site.data.online_presence.contact %}
+            <p>
+                {{ item.name }}:
+                <a href="{{ item.value }}">
+                    {{ item.placeholder }}
+                </a>
+            </p>
+        {% endfor %}
+    </div>
+    <br/><br/>
+    <div class="freelance">
+        <h2>See my freelancer profiles here:</h1><br/>
+        {% for item in site.data.online_presence.freelancing %}
+            <p>
+                {{ item.name }}:
+                <a href="{{ item.value }}">
+                    {{ item.placeholder }}
+                </a>
+            </p>
+        {% endfor %}
+    </div>
+    <br/><br/>
+    <div class="profiles">
+        <h2>Visit one of my online profiles:</h1><br/>
+        {% for item in site.data.online_presence.profiles %}
+            <p>
+                {{ item.name }}:
+                <a href="{{ item.value }}">
+                    {{ item.placeholder }}
+                </a>
+            </p>
+        {% endfor %}
+    </div>
+    <br/><br/>
+    <div class="other">
+        <h2>Other links related to me:</h1><br/>
+        {% for item in site.data.online_presence.others %}
+            <p>
+                {{ item.name }}:
+                <a href="{{ item.value }}">
+                    {{ item.placeholder }}
+                </a>
+            </p>
+        {% endfor %}
+    </div>
+</div>
